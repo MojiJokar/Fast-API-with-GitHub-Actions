@@ -1,0 +1,33 @@
+Create a Simple Virtual Environment for FastAPI Packages from Scratch
+
+mkdir my_fastapi_project
+cd my_fastapi_project
+
+python -m venv .venv
+
+On Windows
+.venv\Scripts\activate
+
+Linux:
+source .venv/bin/activate
+
+Install FastAPI and Related Packages
+------------------------------------------
+pip install fastapi uvicorn
+pip install pydantic
+
+To keep track of your installed packages:
+pip freeze > requirements.txt
+
+-----------------------------------
+floder app
+app/  main.py
+code inside main.py
+
+Git-----------------------------------
+git init
+git add.......
+git commit -m "Lablab........"
+git pull
+git push
+--------------------------------------
