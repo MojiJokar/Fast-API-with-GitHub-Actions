@@ -7,7 +7,11 @@ __pycache__
 htmlcov
 dist
 site
+<<<<<<< HEAD
 .coverage*
+=======
+.coverage
+>>>>>>> e7d33db01b03a63b27405b388c2488ec9cca45ef
 coverage.xml
 .netlify
 test.db
@@ -16,7 +20,10 @@ Pipfile.lock
 env3.*
 env
 docs_build
+<<<<<<< HEAD
 site_build
+=======
+>>>>>>> e7d33db01b03a63b27405b388c2488ec9cca45ef
 venv
 docs.zip
 archive.zip
@@ -24,7 +31,10 @@ archive.zip
 # vim temporary files
 *~
 .*.sw?
+<<<<<<< HEAD
 .cache
 
 # macOS
 .DS_Store
+=======
+>>>>>>> e7d33db01b03a63b27405b388c2488ec9cca45ef
